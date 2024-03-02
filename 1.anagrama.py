@@ -2,7 +2,6 @@
 # Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.
 # NO hace falta comprobar que ambas palabras existan.
 # Dos palabras exactamente iguales no son anagrama.
-import re
 
 palabra_1 = input('Ingrese su 1ra palabra: ')
 palabra_2 = input('Ingrese su 2da palabra: ')
